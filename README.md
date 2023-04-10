@@ -1,2 +1,3 @@
 # Banking_System
-Banking_System where user can get the money, Deposit our money in savings account also add the one more functionality is user can withdraw and transfer our money account to account. You can easily see the Account Summary! 
+In Banking_System, Where user can Deposit our money, also add the functionality in Withdraw and Transfer our money account to account. You can also see the Account Summary!
+
